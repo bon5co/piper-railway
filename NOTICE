@@ -1,0 +1,10 @@
+Piper TTS (piper-tts 1.8.0, https://github.com/OHF-Voice/piper1-gpl) is licensed GPL-3.0-or-later.
+Source for the version in this image: https://github.com/OHF-Voice/piper1-gpl/tree/v1.8.0
+
+Default voice en_US-ljspeech-high (https://huggingface.co/rhasspy/piper-voices): trained on the
+LJ Speech dataset (https://keithito.com/LJ-Speech-Dataset/), public domain.
+
+Voices you add yourself carry their own dataset licences (see each voice's MODEL_CARD in the
+rhasspy/piper-voices repository). Some are non-commercial or attribution-only; check before use.
+
+The wrapper in server.py is released under the MIT licence.
